@@ -1,5 +1,3 @@
 # Basic Sign In Page 
 <p> A very simple Sign In Page made using HTML.<br>
-This project is created for practice.</p><BR>
-#Live Link <br>
-https://tannushree30.github.io/Signinpg/
+This project is created for practice.</p>
